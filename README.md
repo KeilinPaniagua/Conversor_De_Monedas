@@ -28,4 +28,4 @@ Reemplaza `apiKey` en el código por tu clave de API válida para la API de tipo
 
 ## Video del funcionamiento de la aplicación
 
-https://youtu.be/FctRuUogrN8
+[![Mira el vídeo](https://github.com/KeilinPaniagua/Conversor_De_Monedas/blob/main/Men%C3%BA.png)](https://youtu.be/FctRuUogrN8)

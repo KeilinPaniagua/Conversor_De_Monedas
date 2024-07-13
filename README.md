@@ -7,6 +7,7 @@ Funciona mediante el uso de una API de tipo de cambio llamada [ExchangeRate-API]
 
 El sistema permite al usuario seleccionar entre 4 monedas que son Peso argentino, Real brasileño, Peso colombiano y Colón costarricense y las convierte según la cantidad ingresada en dólares estadounidenses.
 Las opciones de conversion que tiene el programa son:
+
 ![Menu](https://github.com/KeilinPaniagua/Conversor_De_Monedas/blob/main/Men%C3%BA.png)
 
 ## Requisitos
